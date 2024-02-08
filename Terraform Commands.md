@@ -24,7 +24,6 @@
 
 ### Terraform Creates Execution plan before making resources
 - `$ terraform plan`
-
 #### Save the plan to a file 
  - `$ terraform plan -out myplan.tfplan`
 
